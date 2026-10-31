@@ -1,0 +1,7 @@
+Dieses Repository enthält den R-Code, die verwendeten Eingangsdaten sowie ausgewählte Ergebnisdateien und Abbildungen 
+der Fallstudie für DLBDBSC01.  
+Code.R führt Datenaufbereitung, Datenexploration, Prognose, Korrelationsanalyse, Scoring und Preisberechnung durch.
+Die verwendeten Quelldatensätze befinden sich im Ordner Datensaetze. 
+Die Herkunft und Filtereinstellungen der Quelldatensätze sind in Anhang A der Fallstudie dokumentiert.
+Die Analyse verwendet den Zeitraum 2005-2021. Für die Preisumrechnung werden zusätzlich Wechselkurse von 2025 verwendet.
+Vor der Ausführung muss das Arbeitsverzeichnis in Code.R an die lokale Projektstruktur angepasst werden.

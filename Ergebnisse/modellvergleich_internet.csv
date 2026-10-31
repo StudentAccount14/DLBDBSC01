@@ -1,0 +1,451 @@
+"Land","Quelle","Modell","MAE","HoldoutSieger","VerwendetesModell","FallbackVerwendet"
+"Australia","OECD","Logistisch (SSlogis)",4.57426493306509,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Australia","OECD","Linear (0-100%)",17.62,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Austria","OECD","Logistisch (SSlogis)",1.53158260313146,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Austria","OECD","Linear (0-100%)",1.08319999999997,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belgium","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belgium","OECD","Linear (0-100%)",2.43668,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brazil","OECD","Logistisch (SSlogis)",6.38359250716029,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brazil","OECD","Linear (0-100%)",4.436263975,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bulgaria","OECD","Logistisch (SSlogis)",1.10535806806771,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bulgaria","OECD","Linear (0-100%)",0.411525000000005,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Canada","OECD","Logistisch (SSlogis)",1.64540044357476,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Canada","OECD","Linear (0-100%)",2.14999999999999,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Chile","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Chile","OECD","Linear (0-100%)",6.90686935649999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Croatia","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Croatia","OECD","Linear (0-100%)",2.18836,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Czechia","OECD","Logistisch (SSlogis)",0.22187981329995,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Czechia","OECD","Linear (0-100%)",2.20457500000002,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Denmark","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Denmark","OECD","Linear (0-100%)",0.554060000000014,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Estonia","OECD","Logistisch (SSlogis)",1.00130493571192,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Estonia","OECD","Linear (0-100%)",2.808055,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Finland","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Finland","OECD","Linear (0-100%)",0.932194999999993,"Linear (0-100%)","Linear (0-100%)",FALSE
+"France","OECD","Logistisch (SSlogis)",3.9299555341444,"Linear (0-100%)","Linear (0-100%)",FALSE
+"France","OECD","Linear (0-100%)",1.0831,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Greece","OECD","Logistisch (SSlogis)",1.20676595048992,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Greece","OECD","Linear (0-100%)",1.40347500000001,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Hungary","OECD","Logistisch (SSlogis)",1.06906930007298,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Hungary","OECD","Linear (0-100%)",0.573794999999997,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iceland","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iceland","OECD","Linear (0-100%)",1.32865,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ireland","OECD","Logistisch (SSlogis)",1.81062373243735,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ireland","OECD","Linear (0-100%)",0.886845000000001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Italy","OECD","Logistisch (SSlogis)",1.90977932377113,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Italy","OECD","Linear (0-100%)",0.286365000000004,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Japan","OECD","Logistisch (SSlogis)",1.97150613314194,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Japan","OECD","Linear (0-100%)",11.78777848,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Korea","OECD","Logistisch (SSlogis)",0.142834065531687,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Korea","OECD","Linear (0-100%)",0.063573857999998,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Latvia","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Latvia","OECD","Linear (0-100%)",2.01434,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lithuania","OECD","Logistisch (SSlogis)",2.17242423309845,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Lithuania","OECD","Linear (0-100%)",2.60996500000001,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Luxembourg","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Luxembourg","OECD","Linear (0-100%)",2.664275,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mexico","OECD","Logistisch (SSlogis)",3.9491197602506,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mexico","OECD","Linear (0-100%)",3.05463590899999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Netherlands","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Netherlands","OECD","Linear (0-100%)",1.524315,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Norway","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Norway","OECD","Linear (0-100%)",1.091375,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Poland","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Poland","OECD","Linear (0-100%)",4.30678500000002,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Portugal","OECD","Logistisch (SSlogis)",5.00344006255902,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Portugal","OECD","Linear (0-100%)",2.16605000000002,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Romania","OECD","Logistisch (SSlogis)",1.17915178223031,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Romania","OECD","Linear (0-100%)",2.28913499999998,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Slovak Republic","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovak Republic","OECD","Linear (0-100%)",6.19504999999999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovenia","OECD","Logistisch (SSlogis)",1.57636477093394,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Slovenia","OECD","Linear (0-100%)",3.411395,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Spain","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Spain","OECD","Linear (0-100%)",1.359995,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sweden","OECD","Logistisch (SSlogis)",2.76435060859608,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Sweden","OECD","Linear (0-100%)",6.07217499999999,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Switzerland","OECD","Logistisch (SSlogis)",7.2395628770117,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Switzerland","OECD","Linear (0-100%)",0.892628928571419,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Turkey","OECD","Logistisch (SSlogis)",4.43150022288304,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Turkey","OECD","Linear (0-100%)",4.15164500000001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"United Kingdom","OECD","Logistisch (SSlogis)",0.381909304184084,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"United Kingdom","OECD","Linear (0-100%)",0.509619999999998,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"United States","OECD","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"United States","OECD","Linear (0-100%)",2.0464406779661,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Afghanistan","WorldBank","Logistisch (SSlogis)",2.15880700398534,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Afghanistan","WorldBank","Linear (0-100%)",4.873600294,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Albania","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Albania","WorldBank","Linear (0-100%)",2.83774576542932,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Algeria","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Algeria","WorldBank","Linear (0-100%)",7.0112186463701,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Andorra","WorldBank","Logistisch (SSlogis)",1.54450083618555,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Andorra","WorldBank","Linear (0-100%)",0.683471700369644,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Angola","WorldBank","Logistisch (SSlogis)",3.1183801169285,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Angola","WorldBank","Linear (0-100%)",2.58010788850001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Antigua and Barbuda","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Antigua and Barbuda","WorldBank","Linear (0-100%)",0.00426674249997916,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Argentina","WorldBank","Logistisch (SSlogis)",3.39976125613527,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Argentina","WorldBank","Linear (0-100%)",1.50313468171296,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Armenia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Armenia","WorldBank","Linear (0-100%)",8.56182174557367,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Australia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Australia","WorldBank","Linear (0-100%)",0.744796889116166,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Austria","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Austria","WorldBank","Linear (0-100%)",2.00841459059129,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Azerbaijan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Azerbaijan","WorldBank","Linear (0-100%)",2.9249961912378,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bahamas The","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bahamas The","WorldBank","Linear (0-100%)",1.7709461225,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bahrain","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bahrain","WorldBank","Linear (0-100%)",0.164484205000001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bangladesh","WorldBank","Logistisch (SSlogis)",1.0099563909855,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bangladesh","WorldBank","Linear (0-100%)",0.821682999999997,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Barbados","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Barbados","WorldBank","Linear (0-100%)",0.00998459300000576,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belarus","WorldBank","Logistisch (SSlogis)",3.37817644638753,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belarus","WorldBank","Linear (0-100%)",2.79549836538624,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belgium","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belgium","WorldBank","Linear (0-100%)",0.20445924646252,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belize","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Belize","WorldBank","Linear (0-100%)",1.90639667050001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Benin","WorldBank","Logistisch (SSlogis)",5.010452396166,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Benin","WorldBank","Linear (0-100%)",2.1269004425,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bhutan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bhutan","WorldBank","Linear (0-100%)",6.0363508395,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bolivia","WorldBank","Logistisch (SSlogis)",14.0809593369192,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bolivia","WorldBank","Linear (0-100%)",12.0003086566699,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bosnia and Herzegovina","WorldBank","Logistisch (SSlogis)",2.85977708200338,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bosnia and Herzegovina","WorldBank","Linear (0-100%)",2.1490478318282,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Botswana","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Botswana","WorldBank","Linear (0-100%)",0.612833984000002,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brazil","WorldBank","Logistisch (SSlogis)",5.28427111980278,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brazil","WorldBank","Linear (0-100%)",2.4305350726252,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brunei Darussalam","WorldBank","Logistisch (SSlogis)",1.9654174037134,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Brunei Darussalam","WorldBank","Linear (0-100%)",1.289517209,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bulgaria","WorldBank","Logistisch (SSlogis)",1.92988368322556,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Bulgaria","WorldBank","Linear (0-100%)",1.26767066251868,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Burkina Faso","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Burkina Faso","WorldBank","Linear (0-100%)",5.25689799883836,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Burundi","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Burundi","WorldBank","Linear (0-100%)",1.02666729366233,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cabo Verde","WorldBank","Logistisch (SSlogis)",7.33073765846436,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cabo Verde","WorldBank","Linear (0-100%)",1.43598103321732,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cambodia","WorldBank","Logistisch (SSlogis)",2.3073813153439,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Cambodia","WorldBank","Linear (0-100%)",14.6284527167626,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Cameroon","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cameroon","WorldBank","Linear (0-100%)",5.50988171175678,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Canada","WorldBank","Logistisch (SSlogis)",0.818463702991245,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Canada","WorldBank","Linear (0-100%)",0.744214202500011,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Central African Republic","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Central African Republic","WorldBank","Linear (0-100%)",1.8996000887,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Chad","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Chad","WorldBank","Linear (0-100%)",0.499100184849999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Chile","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Chile","WorldBank","Linear (0-100%)",2.8102635195633,"Linear (0-100%)","Linear (0-100%)",FALSE
+"China","WorldBank","Logistisch (SSlogis)",2.45270547963442,"Linear (0-100%)","Linear (0-100%)",FALSE
+"China","WorldBank","Linear (0-100%)",0.792135059142247,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Colombia","WorldBank","Logistisch (SSlogis)",5.98185051373409,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Colombia","WorldBank","Linear (0-100%)",2.28612637859297,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Comoros","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Comoros","WorldBank","Linear (0-100%)",7.92487825378571,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Congo Dem Rep","WorldBank","Logistisch (SSlogis)",2.94418338432168,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Congo Dem Rep","WorldBank","Linear (0-100%)",1.3431655486,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Congo Rep","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Congo Rep","WorldBank","Linear (0-100%)",6.6969197637,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Costa Rica","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Costa Rica","WorldBank","Linear (0-100%)",5.75586026814898,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cote dIvoire","WorldBank","Logistisch (SSlogis)",8.87779425906788,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cote dIvoire","WorldBank","Linear (0-100%)",2.57783333044227,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Croatia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Croatia","WorldBank","Linear (0-100%)",1.95832757403041,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cuba","WorldBank","Logistisch (SSlogis)",2.02822031645475,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Cuba","WorldBank","Linear (0-100%)",12.4649669776647,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Cyprus","WorldBank","Logistisch (SSlogis)",3.06050684597979,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Cyprus","WorldBank","Linear (0-100%)",1.73024876116998,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Czechia","WorldBank","Logistisch (SSlogis)",0.569115595049489,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Czechia","WorldBank","Linear (0-100%)",1.72197977050573,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Denmark","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Denmark","WorldBank","Linear (0-100%)",0.985562899449533,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Djibouti","WorldBank","Logistisch (SSlogis)",2.81410839413599,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Djibouti","WorldBank","Linear (0-100%)",15.1590432372302,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Dominica","WorldBank","Logistisch (SSlogis)",0.878554201024109,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Dominica","WorldBank","Linear (0-100%)",0.185059686428581,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Dominican Republic","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Dominican Republic","WorldBank","Linear (0-100%)",4.50018295192854,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ecuador","WorldBank","Logistisch (SSlogis)",8.22209272805006,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ecuador","WorldBank","Linear (0-100%)",8.13330078577616,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Egypt Arab Rep","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Egypt Arab Rep","WorldBank","Linear (0-100%)",9.36017259861105,"Linear (0-100%)","Linear (0-100%)",FALSE
+"El Salvador","WorldBank","Logistisch (SSlogis)",7.42245765196466,"Linear (0-100%)","Linear (0-100%)",FALSE
+"El Salvador","WorldBank","Linear (0-100%)",5.68313510975449,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Equatorial Guinea","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Equatorial Guinea","WorldBank","Linear (0-100%)",2.103055282,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Eritrea","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Eritrea","WorldBank","Linear (0-100%)",6.09005437335,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Estonia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Estonia","WorldBank","Linear (0-100%)",1.77935337372257,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Eswatini","WorldBank","Logistisch (SSlogis)",4.2338572936355,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Eswatini","WorldBank","Linear (0-100%)",0.342303857499992,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ethiopia","WorldBank","Logistisch (SSlogis)",0.279738086955684,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ethiopia","WorldBank","Linear (0-100%)",0.20851055293844,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Fiji","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Fiji","WorldBank","Linear (0-100%)",1.3279361725,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Finland","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Finland","WorldBank","Linear (0-100%)",1.9320139884859,"Linear (0-100%)","Linear (0-100%)",FALSE
+"France","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"France","WorldBank","Linear (0-100%)",0.0130162033495935,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Gabon","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Gabon","WorldBank","Linear (0-100%)",0.985461810999993,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Gambia The","WorldBank","Logistisch (SSlogis)",2.18948371901244,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Gambia The","WorldBank","Linear (0-100%)",1.550996594,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Georgia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Georgia","WorldBank","Linear (0-100%)",1.80238545799184,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ghana","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ghana","WorldBank","Linear (0-100%)",36.6188305575,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Greece","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Greece","WorldBank","Linear (0-100%)",0.915554335004622,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Grenada","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Grenada","WorldBank","Linear (0-100%)",4.04994812299999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guatemala","WorldBank","Logistisch (SSlogis)",0.791884873869648,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guatemala","WorldBank","Linear (0-100%)",0.383188073277299,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guinea","WorldBank","Logistisch (SSlogis)",2.68896258486125,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guinea","WorldBank","Linear (0-100%)",2.65118611518096,"Linear (0-100%)","Linear (0-100%)",FALSE
+"GuineaBissau","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"GuineaBissau","WorldBank","Linear (0-100%)",2.369876245,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guyana","WorldBank","Logistisch (SSlogis)",3.7772717225476,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Guyana","WorldBank","Linear (0-100%)",2.2762170865,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Haiti","WorldBank","Logistisch (SSlogis)",1.40315976844849,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Haiti","WorldBank","Linear (0-100%)",1.42555954053062,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Honduras","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Honduras","WorldBank","Linear (0-100%)",4.26144179458361,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Hungary","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Hungary","WorldBank","Linear (0-100%)",7.79379258287442,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iceland","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iceland","WorldBank","Linear (0-100%)",0.335323882614119,"Linear (0-100%)","Linear (0-100%)",FALSE
+"India","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"India","WorldBank","Linear (0-100%)",12.9700303761339,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Indonesia","WorldBank","Logistisch (SSlogis)",0.758200751133774,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Indonesia","WorldBank","Linear (0-100%)",0.718740903158086,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iran Islamic Rep","WorldBank","Logistisch (SSlogis)",3.19328070096807,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Iran Islamic Rep","WorldBank","Linear (0-100%)",7.04644948035918,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Iraq","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Iraq","WorldBank","Linear (0-100%)",3.92288385366842,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ireland","WorldBank","Logistisch (SSlogis)",4.12241862356517,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ireland","WorldBank","Linear (0-100%)",3.33355700603562,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Israel","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Israel","WorldBank","Linear (0-100%)",1.09303334919811,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Italy","WorldBank","Logistisch (SSlogis)",2.0542484407146,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Italy","WorldBank","Linear (0-100%)",3.25375816529019,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Jamaica","WorldBank","Logistisch (SSlogis)",3.81815334722074,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Jamaica","WorldBank","Linear (0-100%)",8.02073477749443,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Japan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Japan","WorldBank","Linear (0-100%)",3.72858558109456,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Jordan","WorldBank","Logistisch (SSlogis)",11.6797853458037,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Jordan","WorldBank","Linear (0-100%)",5.47399317349999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kazakhstan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kazakhstan","WorldBank","Linear (0-100%)",3.18021543179264,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kenya","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kenya","WorldBank","Linear (0-100%)",0.730115401410339,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kiribati","WorldBank","Logistisch (SSlogis)",2.35023649032614,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Kiribati","WorldBank","Linear (0-100%)",7.70287094,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Korea","WorldBank","Logistisch (SSlogis)",0.709694227407631,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Korea","WorldBank","Linear (0-100%)",1.25415729520873,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Kuwait","WorldBank","Logistisch (SSlogis)",0.296285836486973,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Kuwait","WorldBank","Linear (0-100%)",0.597064914999997,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Kyrgyz Republic","WorldBank","Logistisch (SSlogis)",6.8171858750624,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Kyrgyz Republic","WorldBank","Linear (0-100%)",4.81385601049998,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lao PDR","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lao PDR","WorldBank","Linear (0-100%)",0.545339009999992,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Latvia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Latvia","WorldBank","Linear (0-100%)",0.918651655340547,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lebanon","WorldBank","Logistisch (SSlogis)",0.508508860257855,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Lebanon","WorldBank","Linear (0-100%)",2.45659370600001,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Lesotho","WorldBank","Logistisch (SSlogis)",2.01828343491288,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Lesotho","WorldBank","Linear (0-100%)",3.68488473063522,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Liberia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Liberia","WorldBank","Linear (0-100%)",3.2835946515,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Libya","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Libya","WorldBank","Linear (0-100%)",7.21626434149999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Liechtenstein","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Liechtenstein","WorldBank","Linear (0-100%)",1.62866427857143,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lithuania","WorldBank","Logistisch (SSlogis)",1.80253782841959,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Lithuania","WorldBank","Linear (0-100%)",0.751348770039222,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Luxembourg","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Luxembourg","WorldBank","Linear (0-100%)",2.14480294348502,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Madagascar","WorldBank","Logistisch (SSlogis)",1.43257516894908,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Madagascar","WorldBank","Linear (0-100%)",0.886904787450001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malawi","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malawi","WorldBank","Linear (0-100%)",1.4897949157,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malaysia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malaysia","WorldBank","Linear (0-100%)",6.89685176444283,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Maldives","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Maldives","WorldBank","Linear (0-100%)",5.66962470499999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mali","WorldBank","Logistisch (SSlogis)",4.25931496935379,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mali","WorldBank","Linear (0-100%)",1.10540561250001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malta","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Malta","WorldBank","Linear (0-100%)",1.59359829690778,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Marshall Islands","WorldBank","Logistisch (SSlogis)",6.54150674862907,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Marshall Islands","WorldBank","Linear (0-100%)",0.522228621999997,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mauritania","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mauritania","WorldBank","Linear (0-100%)",4.8294112205,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mauritius","WorldBank","Logistisch (SSlogis)",3.38694267063007,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mauritius","WorldBank","Linear (0-100%)",3.14361755151404,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mexico","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mexico","WorldBank","Linear (0-100%)",3.67153180335657,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Micronesia Fed Sts","WorldBank","Logistisch (SSlogis)",0.292703051806477,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Micronesia Fed Sts","WorldBank","Linear (0-100%)",0.702219874500003,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Moldova","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Moldova","WorldBank","Linear (0-100%)",0.0336675538305542,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Monaco","WorldBank","Logistisch (SSlogis)",0.369966784535507,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Monaco","WorldBank","Linear (0-100%)",0.980681283714283,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Mongolia","WorldBank","Logistisch (SSlogis)",9.20292380886648,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mongolia","WorldBank","Linear (0-100%)",4.06047856147804,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Montenegro","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Montenegro","WorldBank","Linear (0-100%)",5.06836148591933,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Morocco","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Morocco","WorldBank","Linear (0-100%)",5.29078787572255,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mozambique","WorldBank","Logistisch (SSlogis)",0.957277784652791,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Mozambique","WorldBank","Linear (0-100%)",0.0838781881043555,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Myanmar","WorldBank","Logistisch (SSlogis)",4.99418921538586,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Myanmar","WorldBank","Linear (0-100%)",2.10165558385315,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Namibia","WorldBank","Logistisch (SSlogis)",2.60379254867334,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Namibia","WorldBank","Linear (0-100%)",1.910957052,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Nepal","WorldBank","Logistisch (SSlogis)",2.77449145808218,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Nepal","WorldBank","Linear (0-100%)",0.419889703999999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Netherlands","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Netherlands","WorldBank","Linear (0-100%)",2.70227577192202,"Linear (0-100%)","Linear (0-100%)",FALSE
+"New Zealand","WorldBank","Logistisch (SSlogis)",0.34847691322129,"Linear (0-100%)","Linear (0-100%)",FALSE
+"New Zealand","WorldBank","Linear (0-100%)",0.227457047999991,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Nicaragua","WorldBank","Logistisch (SSlogis)",4.32783748859408,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Nicaragua","WorldBank","Linear (0-100%)",2.22475194900001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Niger","WorldBank","Logistisch (SSlogis)",1.10284014409036,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Niger","WorldBank","Linear (0-100%)",3.4084291347172,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Nigeria","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Nigeria","WorldBank","Linear (0-100%)",1.21781959550001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"North Macedonia","WorldBank","Logistisch (SSlogis)",4.57516339561808,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"North Macedonia","WorldBank","Linear (0-100%)",4.89968935992622,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Norway","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Norway","WorldBank","Linear (0-100%)",2.08425062264937,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Oman","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Oman","WorldBank","Linear (0-100%)",2.27456790637816,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Pakistan","WorldBank","Logistisch (SSlogis)",0.238481465086853,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Pakistan","WorldBank","Linear (0-100%)",0.552223174127048,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Panama","WorldBank","Logistisch (SSlogis)",1.51097572791712,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Panama","WorldBank","Linear (0-100%)",3.6346854750592,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Papua New Guinea","WorldBank","Logistisch (SSlogis)",0.911574130960609,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Papua New Guinea","WorldBank","Linear (0-100%)",0.126760478549999,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Paraguay","WorldBank","Logistisch (SSlogis)",5.08676348138032,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Paraguay","WorldBank","Linear (0-100%)",1.28730200103236,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Peru","WorldBank","Logistisch (SSlogis)",1.50674897089367,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Peru","WorldBank","Linear (0-100%)",1.02950127074405,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Philippines","WorldBank","Logistisch (SSlogis)",16.6102219603824,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Philippines","WorldBank","Linear (0-100%)",14.1607471007679,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Poland","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Poland","WorldBank","Linear (0-100%)",0.575377162394894,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Portugal","WorldBank","Logistisch (SSlogis)",4.90045487434683,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Portugal","WorldBank","Linear (0-100%)",2.03835643143383,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Qatar","WorldBank","Logistisch (SSlogis)",0.347174679999995,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Qatar","WorldBank","Linear (0-100%)",0.347174679999995,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Romania","WorldBank","Logistisch (SSlogis)",1.80372142277729,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Romania","WorldBank","Linear (0-100%)",0.693019808219439,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Russian Federation","WorldBank","Logistisch (SSlogis)",0.622821304083836,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Russian Federation","WorldBank","Linear (0-100%)",1.59998596878071,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Rwanda","WorldBank","Logistisch (SSlogis)",0.389030452508932,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Rwanda","WorldBank","Linear (0-100%)",0.785664500500001,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Samoa","WorldBank","Logistisch (SSlogis)",1.81321403372232,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Samoa","WorldBank","Linear (0-100%)",1.711625336,"Linear (0-100%)","Linear (0-100%)",FALSE
+"San Marino","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"San Marino","WorldBank","Linear (0-100%)",11.5513128836331,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sao Tome and Principe","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sao Tome and Principe","WorldBank","Linear (0-100%)",1.28974418150001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Saudi Arabia","WorldBank","Logistisch (SSlogis)",4.39098123762081,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Saudi Arabia","WorldBank","Linear (0-100%)",1.06883375,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Senegal","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Senegal","WorldBank","Linear (0-100%)",3.0372218045,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Serbia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Serbia","WorldBank","Linear (0-100%)",2.50722613234076,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Seychelles","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Seychelles","WorldBank","Linear (0-100%)",5.72375069100001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sierra Leone","WorldBank","Logistisch (SSlogis)",0.546852634962367,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Sierra Leone","WorldBank","Linear (0-100%)",2.65875045555,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Singapore","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Singapore","WorldBank","Linear (0-100%)",2.79836116243795,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovak Republic","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovak Republic","WorldBank","Linear (0-100%)",6.28522834210688,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovenia","WorldBank","Logistisch (SSlogis)",1.39687194958918,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Slovenia","WorldBank","Linear (0-100%)",1.38384865179192,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Solomon Islands","WorldBank","Logistisch (SSlogis)",0.570821636601559,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Solomon Islands","WorldBank","Linear (0-100%)",4.3086340465,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Somalia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Somalia","WorldBank","Linear (0-100%)",16.4286211563571,"Linear (0-100%)","Linear (0-100%)",FALSE
+"South Africa","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"South Africa","WorldBank","Linear (0-100%)",3.02236614,"Linear (0-100%)","Linear (0-100%)",FALSE
+"South Sudan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"South Sudan","WorldBank","Linear (0-100%)",0.93550003575,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Spain","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Spain","WorldBank","Linear (0-100%)",1.53888071999524,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sri Lanka","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sri Lanka","WorldBank","Linear (0-100%)",3.5872395895,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Kitts and Nevis","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Kitts and Nevis","WorldBank","Linear (0-100%)",1.662817381,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Lucia","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Lucia","WorldBank","Linear (0-100%)",0.0618385309999994,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Vincent and the Grenadines","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"St Vincent and the Grenadines","WorldBank","Linear (0-100%)",2.9544519475,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Suriname","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Suriname","WorldBank","Linear (0-100%)",5.501008796,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sweden","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Sweden","WorldBank","Linear (0-100%)",0.472966639227757,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Switzerland","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Switzerland","WorldBank","Linear (0-100%)",0.226462257653729,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Syrian Arab Republic","WorldBank","Logistisch (SSlogis)",1.40859787217717,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Syrian Arab Republic","WorldBank","Linear (0-100%)",1.469428832,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Tajikistan","WorldBank","Logistisch (SSlogis)",5.27055486703046,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tajikistan","WorldBank","Linear (0-100%)",3.71630535,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tanzania","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tanzania","WorldBank","Linear (0-100%)",3.07990102847974,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Thailand","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Thailand","WorldBank","Linear (0-100%)",7.17958089208665,"Linear (0-100%)","Linear (0-100%)",FALSE
+"TimorLeste","WorldBank","Logistisch (SSlogis)",4.34428439838527,"Linear (0-100%)","Linear (0-100%)",FALSE
+"TimorLeste","WorldBank","Linear (0-100%)",1.1320592,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Togo","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Togo","WorldBank","Linear (0-100%)",5.28916608546453,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tonga","WorldBank","Logistisch (SSlogis)",3.39107248265805,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tonga","WorldBank","Linear (0-100%)",1.85290307700001,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Trinidad and Tobago","WorldBank","Logistisch (SSlogis)",3.28050401950625,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Trinidad and Tobago","WorldBank","Linear (0-100%)",2.3562133265,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tunisia","WorldBank","Logistisch (SSlogis)",2.9898696101496,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Tunisia","WorldBank","Linear (0-100%)",8.55897990559035,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Turkey","WorldBank","Logistisch (SSlogis)",1.93438553206921,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Turkey","WorldBank","Linear (0-100%)",3.44746912543686,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Turkmenistan","WorldBank","Logistisch (SSlogis)",1.01340281644773,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Turkmenistan","WorldBank","Linear (0-100%)",0.79333982035,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Tuvalu","WorldBank","Logistisch (SSlogis)",0.122260980532143,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Tuvalu","WorldBank","Linear (0-100%)",1.665001577,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Uganda","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Uganda","WorldBank","Linear (0-100%)",5.7082393066,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ukraine","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Ukraine","WorldBank","Linear (0-100%)",0.661572797571154,"Linear (0-100%)","Linear (0-100%)",FALSE
+"United Arab Emirates","WorldBank","Logistisch (SSlogis)",0,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"United Arab Emirates","WorldBank","Linear (0-100%)",0,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"United Kingdom","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"United Kingdom","WorldBank","Linear (0-100%)",5.35812216406859,"Linear (0-100%)","Linear (0-100%)",FALSE
+"United States","WorldBank","Logistisch (SSlogis)",0.495197932755083,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"United States","WorldBank","Linear (0-100%)",0.745053145932744,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Uruguay","WorldBank","Logistisch (SSlogis)",4.29964519554879,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Uruguay","WorldBank","Linear (0-100%)",7.0202075910665,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Uzbekistan","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Uzbekistan","WorldBank","Linear (0-100%)",4.6254385585446,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Vanuatu","WorldBank","Logistisch (SSlogis)",8.35580007312588,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Vanuatu","WorldBank","Linear (0-100%)",7.41179981845,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Venezuela RB","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Venezuela RB","WorldBank","Linear (0-100%)",25.251529965,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Viet Nam","WorldBank","Logistisch (SSlogis)",1.37437944044875,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Viet Nam","WorldBank","Linear (0-100%)",7.76517802750045,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Yemen Rep","WorldBank","Logistisch (SSlogis)",5.32321201945101,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Yemen Rep","WorldBank","Linear (0-100%)",8.9720532485,"Logistisch (SSlogis)","Linear (0-100%)",TRUE
+"Zambia","WorldBank","Logistisch (SSlogis)",0.388642382826036,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Zambia","WorldBank","Linear (0-100%)",2.46883327175066,"Logistisch (SSlogis)","Logistisch (SSlogis)",FALSE
+"Zimbabwe","WorldBank","Logistisch (SSlogis)",Inf,"Linear (0-100%)","Linear (0-100%)",FALSE
+"Zimbabwe","WorldBank","Linear (0-100%)",2.866937182,"Linear (0-100%)","Linear (0-100%)",FALSE

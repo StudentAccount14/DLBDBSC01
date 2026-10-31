@@ -1,0 +1,110 @@
+Wichtige Konsolenausgaben des R-Skripts. Alle statistischen Werte wurden unverändert übernommen.
+
+1.) Zusammenhang zwischen AIC pro Kopf und Breitbandzugang im Jahr 2021:
+
+a.) Pearson:
+
+cor.test(corr_2021$AusgabeProKopf, corr_2021$Internetzugang, method = "pearson")
+Pearson's product-moment correlation
+
+data:  corr_2021$AusgabeProKopf and corr_2021$Internetzugang
+t = 3.4078, df = 32, p-value = 0.001785
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2154439 0.7272726
+sample estimates:
+     cor 
+0.516015 
+
+
+b.) Spearman:
+
+cor.test(corr_2021$AusgabeProKopf, corr_2021$Internetzugang, method = "spearman") 
+        Spearman's rank correlation rho
+
+data:  corr_2021$AusgabeProKopf and corr_2021$Internetzugang
+S = 3308, p-value = 0.003293
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+     rho 
+0.494576 
+
+
+c.) Lineare Regression:
+
+summary(model_2021)
+Call:
+lm(formula = Internetzugang ~ AusgabeProKopf, data = corr_2021)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-17.3713  -1.9084   0.7971   3.6408  11.6619 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    7.712e+01  3.874e+00  19.907  < 2e-16 ***
+AusgabeProKopf 3.991e-04  1.171e-04   3.408  0.00179 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.09 on 32 degrees of freedom
+Multiple R-squared:  0.2663,    Adjusted R-squared:  0.2433 
+F-statistic: 11.61 on 1 and 32 DF,  p-value: 0.001785
+
+
+2.) Zusammenfassung der Korrelation nach Land und Jahr 
+
+> summary(cor_compare$Pearson)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4677  0.8354  0.8798  0.8602  0.9276  0.9902 
+> summary(cor_compare$Spearman)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5294  0.9472  0.9736  0.9390  0.9902  1.0000 
+> summary(cor_per_year$Pearson)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4781  0.6332  0.6611  0.6521  0.7059  0.7474 
+> summary(cor_per_year$Spearman)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4946  0.6810  0.7065  0.7083  0.7603  0.7969 
+
+
+3.) Anzahl der Länder, Quantile und Sensitivitätsanalysen
+
+print(paste("Betrachtete Länder: ", n_all)) 
+[1] "Betrachtete Länder:  193"
+
+print(paste("Im Scoring berücksichtigte Länder: ", n_scoring))
+[1] "Im Scoring berücksichtigte Länder:  156"
+
+
+quantile(scored$AusgabeProKopf, probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+        0%         1%         2%        98%      98.5%        99%       100% 
+  688.6989  1081.1090  1299.5009 41168.8566 44487.9952 46437.6209 52995.0533 
+
+quantile(scored$Internetzugang, probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+        0%         1%         2%        98%      98.5%        99%       100% 
+  6.778000   9.844165  12.585800  99.909205  99.978046 100.000000 100.000000 
+
+
+quantile(scored$Bevoelkerungsanzahl, probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+          0%           1%           2%          98%        98.5%          99% 
+4.676300e+04 8.103285e+04 9.961630e+04 2.709352e+08 3.141140e+08 8.182171e+08 
+        100% 
+1.414204e+09 
+
+quantile(growth_df$WachstumInternet, probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+        0%         1%         2%        98%      98.5%        99%       100% 
+-1.4822980 -0.7373317  0.1412774  8.0006967  8.3320769  8.7685986 11.9146411 
+
+
+quantile(growth_df$WachstumAusgaben,probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+       0%        1%        2%       98%     98.5%       99%      100% 
+-9.214696 -2.613745 -2.189258  9.476621  9.801008 10.665198 12.316461 
+
+
+quantile(growth_df$WachstumBevoelkerung, probs = c(0, 0.01, 0.02, 0.98, 0.985, 0.99, 1), na.rm = TRUE)
+       0%        1%        2%       98%     98.5%       99%      100% 
+-2.166558 -1.521957 -1.314881  3.419575  3.425885  3.432581  3.765525 
+
+[1] "Übereinstimmung der Top 10 bei anderer Gewichtung: 9 von 10 Ländern"
+[1] "Übereinstimmung der Top 10 bei 5 % regulatorischem Abschlag: 9 von 10 Ländern"
